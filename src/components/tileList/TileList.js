@@ -1,9 +1,5 @@
 import React from "react";
 
-export const TileList = () => {
-  return (
-    <div>
-      
-    </div>
-  );
+export const TileList = ({ contacts }) => {
+  return <div></div>;
 };
